@@ -1,8 +1,5 @@
 <img src="img/BG.jpg" align="center">
 
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">A beginner developer from nowhere</h3>
-
 - 🌱 I’m currently learning **C++**
 
 - ⚡ Fun fact **I think I am funny**
