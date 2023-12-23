@@ -22,7 +22,7 @@
 
 ### Connect with me:
 
-  <div align="left">
+  <p align="left">
     <a href="https://twitter.com/s_ci_" target="blank">
       <img 
         align="center" 
@@ -42,7 +42,7 @@
       width="40" 
     />
   </a>
-</div>
+</p>
 
 ### Languages and Tools:
 
