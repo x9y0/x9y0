@@ -2,9 +2,9 @@
   <img src="./img/¥$.png" height="128px" width="128px" />
 </p>
 
-<h3 align="center">
+<h1 align="center">
   A passionate human
-</h3>
+</h1>
 
 <p align="left"> 
   <a href="https://twitter.com/s_ci_" target="blank">
