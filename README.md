@@ -7,9 +7,9 @@
 </h1>
 
 <p align="left"> 
-  <a href="https://twitter.com/s_ci_" target="blank">
-    <img src="https://img.shields.io/twitter/follow/s_ci_?logo=twitter&style=for-the-badge" 
-         alt="s_ci_" 
+  <a href="https://twitter.com/x9y0_" target="blank">
+    <img src="https://img.shields.io/twitter/follow/x9y0_?logo=twitter&style=for-the-badge" 
+         alt="x9y0_" 
     />
   </a>
 </p>
@@ -23,11 +23,11 @@
 ### Connect with me:
 
   <p align="left">
-    <a href="https://twitter.com/s_ci_" target="blank">
+    <a href="https://twitter.com/x9y0_" target="blank">
       <img 
         align="center" 
         src="https://raw.githubusercontent.com/x9y0/devicon/master/icons/twitter/logo.svg"
-        alt="s_ci_" 
+        alt="x9y0_" 
         height="35"
         width="45"
       />
