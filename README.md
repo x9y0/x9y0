@@ -1,6 +1,6 @@
-<center>
+<p align="center">
   <img src="./img/¥$.png" height="128px" width="128px" />
-</center>
+</p>
 
 <h3 align="center">
   A passionate human
