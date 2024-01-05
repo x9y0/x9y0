@@ -22,72 +22,77 @@
 
 ### Connect with me:
 
-  <a 
-    href="https://www.x.com/x9y0_" target="_blank" class="social">
+  <p align="left">
+    <a href="https://twitter.com/x9y0_" target="blank">
+      <img 
+        align="center" 
+        src="https://raw.githubusercontent.com/x9y0/devicon/master/icons/twitter/logo.svg"
+        alt="x9y0_" 
+        height="35"
+        width="45"
+      />
+    </a>
+
+  <a href="https://instagram.com/x9y0_" target="blank">
     <img 
-      src="https://raw.githubusercontent.com/x9y0/devicon/master/icons/twitter/logo.svg"
-      alt="x9y0_" 
-      width="55" 
-      height="55"
-    >
-  </a>
-  
-  <a 
-    href="https://instagram.com/x9y0_" target="_blank" class="social">
-    <img 
+      align="center" 
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
       alt="x9y0_" 
-      width="45" 
-      height="55"
-    >
+      height="30" 
+      width="40" 
+    />
   </a>
+</p>
 
 ### Languages and Tools:
 
-  <img 
+  <p align="left">
+    <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      width="60" 
-      height="50"
-    >
-
-  <img
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+    <img
       src="https://raw.githubusercontent.com/x9y0/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      width="60" 
-      height="50"
-    >
-
-  <img
+      alt="cplusplus"
+      width="40"
+      height="40"
+    />
+    <img
       src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      width="60" 
-      height="50"
-    >
-
-  <img
+      alt="figma"
+      width="40"
+      height="40"
+    />
+    <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      width="60" 
-      height="50"
-    >
-
-  <img
+      alt="css"
+      width="40"
+      height="40"
+    />
+    <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      width="60" 
-      height="50"
-    >
-
-  <img
+      alt="html5"
+      width="40"
+      height="40"
+    />
+    <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-      width="60" 
-      height="50"
-    >
-
-  <img
+      alt="vscode"
+      width="50"
+      height="40"
+    />
+    <img
       src="https://raw.githubusercontent.com/x9y0/devicon/master/icons/visualstudio/Visual_Studio_Icon_2022.svg"
-      width="60" 
-      height="50"
-    >
-
-  <img
+      alt="markdown"
+      width="40"
+      height="40"
+    />
+    <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"
-      width="60" 
-      height="50"
-    >
+      alt="markdown"
+      width="40"
+      height="40"
+    />
+  </p>
