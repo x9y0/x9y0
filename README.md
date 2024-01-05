@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./img/geometric-abstract.gif" height="1080px" width="1920px" />
+</p>
+
+<p align="center">
   <img src="./img/¥$.png" height="128px" width="128px" />
 </p>
 
