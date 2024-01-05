@@ -2,13 +2,7 @@
   <img src="./img/geometric-abstract.gif" height="150%" width="150%" />
 </p>
 
-<p align="center">
-  <img src="./img/¥$.png" height="128px" width="128px" />
-</p>
-
-<h1 align="center">
-  A passionate human
-</h1>
+ <hr>
 
 <p align="left"> 
   <a href="https://twitter.com/x9y0_" target="blank">
