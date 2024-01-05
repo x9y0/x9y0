@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/geometric-abstract.gif"/>
+  <img src="./img/geometric-abstract.gif" height="150%" width="150%" />
 </p>
 
 <p align="center">
