@@ -18,29 +18,6 @@
 
 > - 💬 Ask me about **Nothing.**
 
-### Connect with me:
-
-  <p align="left">
-    <a href="https://twitter.com/x9y0_" target="blank">
-      <img 
-        align="center" 
-        src="https://raw.githubusercontent.com/x9y0/devicon/master/icons/twitter/logo.svg"
-        alt="x9y0_" 
-        height="35"
-        width="45"
-      />
-    </a>
-
-  <a href="https://instagram.com/x9y0_" target="blank">
-    <img 
-      align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-      alt="x9y0_" 
-      height="30" 
-      width="40" 
-    />
-  </a>
-</p>
 
 ### Languages and Tools:
 
