@@ -1,73 +1,47 @@
 <p align="center">
-  <img src="./img/geometric-abstract.gif" height="150%" width="150%" />
+    <img alt="" src=https://img.shields.io/github/stars/x9y0?style=for-the-badge&?affiliations=OWNER%2CCOLLABORATOR />
+    <img alt="" src=https://komarev.com/ghpvc/?username=x9y0&style=for-the-badge />
 </p>
 
- <hr>
 
-<p align="left"> 
-  <a href="https://twitter.com/x9y0_" target="blank">
-    <img src="https://img.shields.io/twitter/follow/x9y0_?logo=twitter&style=for-the-badge" 
-         alt="x9y0_" 
-    />
+<h2 align="center">About Me </h2>
+
+```python
+from typing import Tuple, List, Dict
+
+class Tekky:
+    pass
+
+class Attributes(x9y0):
+    @property
+    def contact(self) -> Tuple[str, str, str]:
+        discord  = "https://discord.gg/fghKP3gnUA"
+        twitter    = "x9y0_"
+	    
+	    return discord, twitter
+
+    @property
+    def life(self) -> Tuple[List[str], int]:
+        langs = 'English'
+		
+        return langs
+	
+    @property
+    def coding(self) -> Tuple[Dict[str, List[str]], List[str], List[str]]:
+        langs = {
+            'expert'      : ['nothing'],
+            'intermediate': ['C++', 'JS', 'HTML', 'CSS', 'Markdown'],
+            'interested in': ['GO', 'Python', 'PHP']
+        }
+        specialities  = ['Desktop Application', 'Fullstack', 'Editor']
+	    environnement = ['VS Code', 'VS Studio']
+
+	return langs, specialities, environnement
+```
+<h2 align="center">Tools </h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,golang,php,vscode,visualstudio,c,cpp,js,ts,css,html,ae,pr,ps,ai,figma,blender,nodejs,discord,git,github,gmail,md," />
   </a>
 </p>
-
-> - 🌱 I’m currently learning **C++, JS, HTML, CSS**
-
-> - 👨‍💻 All of my projects are available at [https://github.com/x9y0](https://github.com/x9y0)
-
-> - 💬 Ask me about **Nothing.**
-
-
-### Languages and Tools:
-
-  <p align="left">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-    <img
-      src="https://raw.githubusercontent.com/x9y0/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"
-    />
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css"
-      width="40"
-      height="40"
-    />
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-      alt="vscode"
-      width="50"
-      height="40"
-    />
-    <img
-      src="https://raw.githubusercontent.com/x9y0/devicon/master/icons/visualstudio/Visual_Studio_Icon_2022.svg"
-      alt="markdown"
-      width="40"
-      height="40"
-    />
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"
-      alt="markdown"
-      width="40"
-      height="40"
-    />
-  </p>
