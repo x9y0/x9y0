@@ -1,3 +1,5 @@
+<img src="./img/X_BANNER.jpg">
+
 <h1 align="center">🗣️ About Me</h1>
 
 <ul>
