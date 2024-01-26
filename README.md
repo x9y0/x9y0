@@ -1,6 +1,6 @@
 <img src="./img/X_BANNER.jpg">
 
-<h1 align="center">🗣️ About Me</h1>
+<!--<h1 align="center">🗣️ About Me</h1>
 
 <ul>
     <li>🐦 <a href="https://twitter.com/x9y0_">Follow me on X</a></li>
@@ -24,7 +24,7 @@
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<!-- <p align="center">
+ <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,golang,php,vscode,visualstudio,c,cpp,js,ts,css,html,ae,pr,ps,ai,figma,blender,nodejs,discord,git,github,gmail,md," />
   </a>
